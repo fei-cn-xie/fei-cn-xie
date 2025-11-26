@@ -3,7 +3,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=700&pause=700&color=F77B86&random=false&width=435&lines=+%F0%9F%98%8E+Hey! Nice to see you.;I'm fei-cn-xie;5 years experienced Web Developer;from Indonesia;I+learn+and+add+things+here..;maybe+a+thing+or+two+would+interest+you." /></a>
 
-<p>I'm fei-cn-xie, 5 years experienced Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330476.png" width="13"/> <b>China</b>
+<p>I'm fei-cn-xie, 5 years experienced Web Developer from  <b>China</b> 🇨🇳
 
 
 <details open>
