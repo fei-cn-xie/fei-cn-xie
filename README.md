@@ -1,7 +1,5 @@
 # TO BE UPDATE
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=700&pause=700&color=F77B86&random=false&width=435&lines=+%F0%9F%98%8E+Hey! Nice to see you.;I'm fei-cn-xie;5 years experienced Web Developer;from Indonesia;I+learn+and+add+things+here..;maybe+a+thing+or+two+would+interest+you." /></a>
-
 <p style="font-weight: bold" >I'm fei-cn-xie, 5 years experienced Web Developer from   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="13"/> <b>China</b>  </p>
 
 
