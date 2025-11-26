@@ -1,6 +1,6 @@
 # TO BE UPDATE
 
-**I'm fei-cn-xie, 5 years experienced Web Developer from  ** <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="13"/> <b>China</b> 
+**I'm fei-cn-xie, 5 years experienced Web Developer from** <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="13"/> <b>China</b> 
 
 
 <details open>
